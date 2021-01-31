@@ -1,0 +1,10 @@
+{
+  "KEY": "#b89077",
+  "SEMICOLON": "#abb5aa",
+  "VALUE": "#abb877;",
+  "NUMBERS": "#338991",
+  "SYMBOLS": "white",
+  "TRUE": "#62b57c",
+  "FALSE": "#cf5d5d",
+  "PORT": 5000
+}
