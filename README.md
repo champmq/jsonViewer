@@ -39,4 +39,4 @@ background-color: #35363d
 
 ## Credits
 
-Thanks to @HimmelKreis4865 for choosing the colours.
+Thanks to [HimmelKreis4865](https://github.com/HimmelKreis4865) for choosing the colours.
